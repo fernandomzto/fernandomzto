@@ -16,6 +16,7 @@ I'm building technical skills to work with data, focusing on clear analysis and 
 
 ## Tools & Technologies
 
+- SQL
 - Python (beginner)
 - Excel
 - Power Bi
