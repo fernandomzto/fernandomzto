@@ -16,11 +16,11 @@ I'm building technical skills to work with data, focusing on clear analysis and 
 
 ## Tools & Technologies
 
-Python (beginner)
-Excel
-Power Bi
-Git
-Github
+- Python (beginner)
+- Excel
+- Power Bi
+- Git
+- Github
 
 ## Projects
 
