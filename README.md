@@ -7,7 +7,7 @@ I'm building technical skills to work with data, focusing on clear analysis and 
 
 ## About Me
 
--  Currently studying **Database Technology** at UNINTER
+-  Currently studying **Data Science Technology** at UNINTER
 -  Learning and practicing **Data Analysis** using tools like Excel, Power BI, SQL, and Python
 -  International experience through an exchange program in Ireland (2022–2023)
 -  Looking for an internship opportunity where I can apply what I'm learning and keep growing in the data field
