@@ -27,11 +27,11 @@ I'm building technical skills to work with data, focusing on clear analysis and 
 
 Here are a few simple projects I've completed as part of my learning journey:
 
--  **Specialty Coffee Analysis with SQL**  
-  A simple SQL project to create a comparative list of specialty coffees (rated above 86 points according to SCA standards).
+-  **Brasileirao 2024 - Players Performance Analysis**  
+  A simple Power BI project to compare some statistics from players of "Brasileirão 2024" using Power Query, DAX and visualization tools.
 
--  **Veterinary Hospital Report (Excel + Power BI)**  
-  Analysis of real data I collected during my time at the University of São Paulo's Veterinary Hospital (Hovet), organized in Excel and visualized using Power BI.
+-  **Analysis of Dota 2 Heroes (patch 7.38b)**  
+  Analysis of Dota 2 heroes during the patch 7.38b about their attributes like armor, damage, movespeed, etc, using Python, Pandas, Matplotlib and Seaborn.
 
 More projects are on the way.
 
